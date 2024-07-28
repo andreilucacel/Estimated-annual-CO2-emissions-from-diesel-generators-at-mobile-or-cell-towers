@@ -1,6 +1,4 @@
 Machine Learning software that predicts annual CO2 emissions from base stations around the World
-
-Machine Learning software that predicts annual CO2 emissions from base stations around the World
 I developed Machine Learning software that predicts annual CO2 emissions from base stations around the world. With this machine learning software, you will be able to predict how much CO2 is emitted by base stations in which country, year by year. You will also be able to find the predicted country. The decision tree is automatically saved as .dot. The data has been meticulously entered by me and the software is completely original.
 
 The values you enter should be (respectively):
